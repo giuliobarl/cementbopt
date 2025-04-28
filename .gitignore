@@ -170,5 +170,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Data
+data/Datatesi*
+data/Example*
+
 # Example codes
 *example*
+botorch*
+*Tesi*
