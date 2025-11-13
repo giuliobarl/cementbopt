@@ -179,3 +179,7 @@ data/Example*
 botorch*
 *tmp*
 *grouping*
+*demo*
+
+# Publication files
+publication/
