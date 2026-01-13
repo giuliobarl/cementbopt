@@ -171,8 +171,7 @@ cython_debug/
 .pypirc
 
 # Data
-data/Datatesi*
-data/Example*
+# data/
 
 # Example codes
 *example*
