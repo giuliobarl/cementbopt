@@ -14,10 +14,8 @@ Link: *to be added*
 
 ## Data availability
 
-The dataset associated with this study is available at:
+The dataset associated with this study is available at [**Zenodo**](https://zenodo.org/records/20184064)*
 
-**Zenodo**
-Link: *[https://zenodo.org/records/20184064](https://zenodo.org/records/20184064)*
 DOI: *[10.5281/zenodo.20184063](10.5281/zenodo.20184063)*
 
 ## Citation
