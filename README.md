@@ -16,7 +16,7 @@ Link: *[arxiv.org/abs/2605.19494](https://arxiv.org/abs/2605.19494)*
 
 The dataset associated with this study is available at [**Zenodo**](https://zenodo.org/records/20184064)*
 
-DOI: *[10.5281/zenodo.20184063](10.5281/zenodo.20184063)*
+DOI: *[10.5281/zenodo.20184063](https://doi.org/10.5281/zenodo.20184063)*
 
 ## Citation
 
