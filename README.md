@@ -9,8 +9,8 @@ The repository is intended as a companion code release for the associated scient
 Details of the methodology and results are described in:
 
 **Alessio Mondello, Giulio Barletta, Luca Lavagna, Matteo Fasano, Matteo Pavese, Eliodoro Chiavazzo**, *High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage*, **arXiv** (**2026**)
-DOI: *to be added*
-Link: *to be added*
+DOI: *[10.48550/arXiv.2605.19494](https://doi.org/10.48550/arXiv.2605.19494)*
+Link: *[arxiv.org/abs/2605.19494](https://arxiv.org/abs/2605.19494)*
 
 ## Data availability
 
